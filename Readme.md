@@ -1,21 +1,56 @@
 <h1 align="center">Hi, I'm Vishvrajsinh 👋</h1>
-<h3 align="center">AI/ML Engineer building production systems across fintech, healthtech, NLP & robotics</h3>
+<h3 align="center">AI/ML Engineer building production systems across fintech, healthtech, robotics & space-tech</h3>
 
 <p align="center">
   <a href="https://vishvraj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishvrajsinh-solanki-1396ab37a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishvrajsolanki0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+```
+----:::::::::::::::::::...................   vishvraj@github
+-::::::::::::::...........................   ────────────────────────────────────────────
+:::::::::::....................    .......   OS ..................... Windows / WSL2
+::::::::...........  ...                     Host .................... ADIT, CVM University
+::::::.....:-=%++==+=.                       Uptime .................. 2nd Yr B.Tech AI & DS ('29)
+::::......=%####@####+:                      Role .................... AI/ML Engineer, Builder
+:::......-##%+==****%#=                      IDE ..................... VS Code, Claude Code
+::.......+#*-::::--=+%%                      
+:........=#+=+++-+%%%**:                     Languages.Core .......... Python, C, C++, JavaScript
+.........:%=***+-=+===+=                     Languages.Web ........... HTML, CSS, Markdown
+.........:++---+**%+=+*=                     
+......... :+*++**+**+%*.                     Stack.ML ................ scikit-learn, TensorFlow, XGBoost, SHAP
+.........  .+%*====+%#+:.                    Stack.Backend ........... FastAPI, PostgreSQL, Supabase
+.........    =#%%%%##*-=%+-::.               Stack.Frontend .......... React, Vite, Three.js
+.........    -+*%%%*=:.*#####%**+==--:       Stack.Hardware .......... ESP32-S3, Arduino
+.......   .-*%::-*+-. :%%%######%%%###+      
+..... .:=*###%::+%#*:.=%%%%%%%%%%%%####*.    Currently Building ...... TrackBot, Surya Drishti
+....-+%######*...%#-  +%%%%%%%%%%%######*.   
+...:%########*. =#%* .%%%%%%%%%%%########%   Contact.Email ........... vishvrajsolanki0207@gmail.com
+...:#########*. *#%%.:%%%%%%%%%###########   Contact.LinkedIn ........ vishvrajsinh-solanki-1396ab37a
+...-###%%%###%. *#%%:=%%%#%%%#############   Contact.GitHub .......... vishvrajsolanki-dev
+...-####%%%##%: *#%%=+%%#%%%%#####@#######   
+:..-#####%%###=.*#%%+*%##%%%######@#######   ────────────────────────────────────────────
+::.-######%###*:*#%%%%%#%%%#######@@######   GitHub Stats
+::.-#########%#=*##%#%##%%########@@######   Repos: <FILL> | Stars: <FILL>
+::::%########%#++##%####%##########@######   Commits: <FILL> | Followers: <FILL>
+:::-###########*+######%%############%%###   
+:::+###########*+######%############@*.%##   
+:::+###########%+#####################=%##   
+-::+###########%+#########################   
+```
 
 ---
 
 ## 💫 About Me
 
 **🛰️ Currently working on**
-> Surya Drishti — solar flare forecasting using ISRO Aditya-L1/NOAA data (Bhartiya Antariksh Hackathon 2026) & TrackBot — an SSIP-funded autonomous AGV
+> TrackBot — an SSIP-funded ESP32-S3 autonomous warehouse AGV, and Surya Drishti — solar flare nowcasting/forecasting from ISRO Aditya-L1/NOAA data (Bharatiya Antariksh Hackathon 2026)
 
 **🤝 Looking to collaborate on**
-> Applied ML projects in fintech/healthtech, RAG-based AI products, or embedded+AI hybrid builds
+> Applied ML in fintech/healthtech, RAG-based AI products, or embedded+AI hybrid builds
 
 **🎗️ Looking for help with**
 > PyTorch and MLOps — the two gaps in an otherwise deployed-project-heavy stack
@@ -35,10 +70,12 @@
 
 | Project | What it does |
 |---|---|
-| **TrackBot** | ESP32-S3 mecanum-drive warehouse AGV — SSIP Cell recognized, IEEE paper in progress |
-| **Surya Drishti** | Solar flare nowcasting/forecasting using GOES XRS as an Aditya-L1 proxy — XGBoost, Prophet/LSTM, SHAP, RAG |
-| **Lexis** | Multimodal exam intelligence system |
-| **RupeeIQ** | Personal finance ML application |
+| **[TrackBot](https://github.com/vishvrajsolanki-dev/trackbot)** | ESP32-S3 mecanum-drive autonomous warehouse AGV — SSIP Cell recognized, IEEE paper in progress |
+| **[Surya Drishti](#)** | Solar flare nowcasting/forecasting using GOES XRS as an Aditya-L1 proxy — XGBoost, LightGBM, Prophet, Isolation Forest, SHAP, RAG |
+| **[ARC Platform](#)** | Adaptive Risk and Clarity Engine — enterprise financial simulation platform, React + FastAPI + Celery |
+| **[Lexis](https://github.com/vishvrajsolanki-dev/lexis)** | Multimodal exam intelligence system |
+| **[RupeeIQ](https://github.com/vishvrajsolanki-dev/rupeeiq)** | Personal finance ML application |
+| **[Portfolio](https://vishvraj-portfolio.vercel.app)** | React 19 + Three.js personal site — full case studies on every project above |
 
 More detail on each → [vishvraj-portfolio.vercel.app](https://vishvraj-portfolio.vercel.app)
 
