@@ -1,85 +1,122 @@
-<h1 align="center">Hi, I'm Vishvrajsinh 👋</h1>
-<h3 align="center">AI/ML Engineer building production systems across fintech, healthtech, robotics & space-tech</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://vishvraj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishvrajsinh-solanki-1396ab37a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vishvrajsolanki0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0077B5&height=200&section=header&text=Vishvrajsinh%20Solanki&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Fintech%20%C2%B7%20Healthtech%20%C2%B7%20Robotics%20%C2%B7%20Space-Tech&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://vishvraj-portfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+production+ML+systems+that+ship;TrackBot+%E2%80%94+SSIP-funded+autonomous+AGV;ARC+%E2%80%94+Financial+Simulation+Platform;Surya+Drishti+%E2%80%94+Solar+Flare+Forecasting;RAG+Pipelines+%C2%B7+SHAP+%C2%B7+MLOps+in+progress" alt="Typing SVG" />
+</a>
 
-```
-----:::::::::::::::::::...................   vishvraj@github
--::::::::::::::...........................   ────────────────────────────────────────────
-:::::::::::....................    .......   OS ..................... Windows / WSL2
-::::::::...........  ...                     Host .................... ADIT, CVM University
-::::::.....:-=%++==+=.                       Uptime .................. 2nd Yr B.Tech AI & DS ('29)
-::::......=%####@####+:                      Role .................... AI/ML Engineer, Builder
-:::......-##%+==****%#=                      IDE ..................... VS Code, Claude Code
-::.......+#*-::::--=+%%                      
-:........=#+=+++-+%%%**:                     Languages.Core .......... Python, C, C++, JavaScript
-.........:%=***+-=+===+=                     Languages.Web ........... HTML, CSS, Markdown
-.........:++---+**%+=+*=                     
-......... :+*++**+**+%*.                     Stack.ML ................ scikit-learn, TensorFlow, XGBoost, SHAP
-.........  .+%*====+%#+:.                    Stack.Backend ........... FastAPI, PostgreSQL, Supabase
-.........    =#%%%%##*-=%+-::.               Stack.Frontend .......... React, Vite, Three.js
-.........    -+*%%%*=:.*#####%**+==--:       Stack.Hardware .......... ESP32-S3, Arduino
-.......   .-*%::-*+-. :%%%######%%%###+      
-..... .:=*###%::+%#*:.=%%%%%%%%%%%%####*.    Currently Building ...... TrackBot, Surya Drishti
-....-+%######*...%#-  +%%%%%%%%%%%######*.   
-...:%########*. =#%* .%%%%%%%%%%%########%   Contact.Email ........... vishvrajsolanki0207@gmail.com
-...:#########*. *#%%.:%%%%%%%%%###########   Contact.LinkedIn ........ vishvrajsinh-solanki-1396ab37a
-...-###%%%###%. *#%%:=%%%#%%%#############   Contact.GitHub .......... vishvrajsolanki-dev
-...-####%%%##%: *#%%=+%%#%%%%#####@#######   
-:..-#####%%###=.*#%%+*%##%%%######@#######   ────────────────────────────────────────────
-::.-######%###*:*#%%%%%#%%%#######@@######   GitHub Stats
-::.-#########%#=*##%#%##%%########@@######   Repos: <FILL> | Stars: <FILL>
-::::%########%#++##%####%##########@######   Commits: <FILL> | Followers: <FILL>
-:::-###########*+######%%############%%###   
-:::+###########*+######%############@*.%##   
-:::+###########%+#####################=%##   
--::+###########%+#########################   
-```
+<br/>
 
----
+<a href="https://vishvraj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishvrajsinh-solanki-1396ab37a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishvrajsolanki0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vishvrajsolanki-dev"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=00D9A5&center=true&vCenter=true&width=700&lines=%24+whoami;vishvrajsinh_solanki+%E2%80%94+AI%2FML+Engineer%2C+Builder;%24+cat+status.log;2nd+Yr+B.Tech+AI+%26+DS+%40+ADIT%2C+CVM+University;%24+ps+--currently-building;TrackBot+(SSIP-funded)+%C2%B7+Surya+Drishti;%24 " alt="terminal typing" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,vite,threejs,fastapi,postgres,tensorflow,docker,git,github,arduino,vercel&theme=dark&perline=17" alt="tech stack icons"/>
+
+<br/><br/>
+
+![Role](https://img.shields.io/badge/Role-AI%2FML_Engineer-00D9A5?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Base-ADIT%2C_Gujarat-8A2BE2?style=flat-square&labelColor=1a1a2e)
+![Repos](https://img.shields.io/badge/Repos-20%2B-0077B5?style=flat-square&labelColor=1a1a2e)
+![Commits](https://img.shields.io/badge/Commits-120-00D9A5?style=flat-square&labelColor=1a1a2e)
+![PRs](https://img.shields.io/badge/PRs-35-8A2BE2?style=flat-square&labelColor=1a1a2e)
+![Streak](https://img.shields.io/badge/Streak-9_days_🔥-FF6B35?style=flat-square&labelColor=1a1a2e)
+
+</div>
+
+
+
+<br/>
 
 ## 💫 About Me
 
-**🛰️ Currently working on**
-> TrackBot — an SSIP-funded ESP32-S3 autonomous warehouse AGV, and Surya Drishti — solar flare nowcasting/forecasting from ISRO Aditya-L1/NOAA data (Bharatiya Antariksh Hackathon 2026)
+| | |
+|:---|:---|
+| 🛰️ **Currently building** | TrackBot — SSIP-funded ESP32-S3 autonomous warehouse AGV — and Surya Drishti, solar flare nowcasting/forecasting from ISRO Aditya-L1 / NOAA data (Bharatiya Antariksh Hackathon 2026) |
+| 🤝 **Open to collaborating on** | Applied ML in fintech/healthtech, RAG-based AI products, or embedded + AI hybrid builds |
+| 🎗️ **Looking for help with** | PyTorch and MLOps — the two gaps in an otherwise deployed-project-heavy stack |
+| 🌱 **Currently learning** | PyTorch, MLOps fundamentals, and Data Structures & Algorithms (GATE DA prep) |
+| 💬 **Ask me about** | RAG pipelines, SHAP explainability, or deploying ML apps that actually survive production |
+| ⚡ **Fun fact** | A handwriting-recognition model went from 96% accurate to completely useless in production — turned out it was reading cursive, not print. Pivoted the whole project in a day |
 
-**🤝 Looking to collaborate on**
-> Applied ML in fintech/healthtech, RAG-based AI products, or embedded+AI hybrid builds
+<br/>
 
-**🎗️ Looking for help with**
-> PyTorch and MLOps — the two gaps in an otherwise deployed-project-heavy stack
-
-**🌱 Currently learning**
-> PyTorch, MLOps fundamentals, and Data Structures & Algorithms (GATE DA prep)
-
-**💬 Ask me about**
-> RAG pipelines, SHAP explainability, deploying ML apps that actually survive production, or debugging a model that's "accurate but still wrong" (long story — see LetterLens)
-
-**⚡ Fun fact**
-> My handwriting-recognition model went from 96% accurate to completely useless in production — because it turned out to be reading cursive, not print. Pivoted the whole project in a day.
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0077B5&height=2&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-|---|---|
-| **[TrackBot](https://github.com/vishvrajsolanki-dev/trackbot)** | ESP32-S3 mecanum-drive autonomous warehouse AGV — SSIP Cell recognized, IEEE paper in progress |
-| **[Surya Drishti](#)** | Solar flare nowcasting/forecasting using GOES XRS as an Aditya-L1 proxy — XGBoost, LightGBM, Prophet, Isolation Forest, SHAP, RAG |
-| **[ARC Platform](#)** | Adaptive Risk and Clarity Engine — enterprise financial simulation platform, React + FastAPI + Celery |
-| **[Lexis](https://github.com/vishvrajsolanki-dev/lexis)** | Multimodal exam intelligence system |
-| **[RupeeIQ](https://github.com/vishvrajsolanki-dev/rupeeiq)** | Personal finance ML application |
-| **[Portfolio](https://vishvraj-portfolio.vercel.app)** | React 19 + Three.js personal site — full case studies on every project above |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-More detail on each → [vishvraj-portfolio.vercel.app](https://vishvraj-portfolio.vercel.app)
+### 🤖 [TrackBot](https://github.com/vishvrajsolanki-dev/trackbot)
+ESP32-S3 mecanum-drive autonomous warehouse AGV — **SSIP-funded**, IEEE paper in progress. RFID localization, A* pathfinding, live WebSocket dashboard.
 
----
+`ESP32-S3` `RFID` `A*` `WebSocket`
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ Surya Drishti
+Solar flare nowcasting/forecasting using GOES XRS as an Aditya-L1 proxy — built for Bharatiya Antariksh Hackathon 2026.
+
+`XGBoost` `LightGBM` `Prophet` `SHAP` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💹 ARC — Adaptive Risk & Clarity Engine
+Enterprise-grade financial Monte Carlo simulation platform. Vectorized NumPy engine, Celery workers, ECS Fargate deployment.
+
+`React` `FastAPI` `Celery` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Lexis](https://github.com/vishvrajsolanki-dev/lexis)
+Multimodal exam intelligence system with RAG-backed Q&A over course material.
+
+`Groq/Llama 3.1` `ChromaDB` `spaCy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [RupeeIQ](https://github.com/vishvrajsolanki-dev/rupeeiq)
+Personal finance ML app using Euclidean-distance profiling and crisis prediction.
+
+`scikit-learn` `Linear Regression`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio](https://vishvraj-portfolio.vercel.app)
+React 19 + Three.js personal site with full case studies for every project above.
+
+`React 19` `R3F` `GSAP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0077B5&height=2&width=100%" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -104,27 +141,81 @@ More detail on each → [vishvraj-portfolio.vercel.app](https://vishvraj-portfol
 **VCS & Deployment**
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0077B5&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=vishvrajsolanki-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vishvrajsolanki-dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishvrajsolanki-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=vishvrajsolanki-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=vishvrajsolanki-dev&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishvrajsolanki-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+
+</div>
+
+**Snapshot** · 120 commits · 35 PRs · 9-day current & longest streak (Jul 11 – Jul 19) · 198 total contributions since Nov 2025
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishvrajsolanki-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<!--END_SECTION:activity-->
+
+<img src="https://raw.githubusercontent.com/vishvrajsolanki-dev/vishvrajsolanki-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> 💡 The snake animation above needs a one-time GitHub Actions setup on your profile repo — see the note at the bottom of this file.
+
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishvrajsolanki-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
 
-### 🔝 Top Contributed Repo
+![](https://github-profile-trophy.vercel.app/?username=vishvrajsolanki-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔝 Top Contributed Repos</b></summary>
+<br/>
+
 ![](https://github-contributor-stats.vercel.app/api?username=vishvrajsolanki-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+</details>
 
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=vishvrajsolanki-dev&icon=0&color=0" /></a>
-</p>
+<details>
+<summary><b>✍️ Random Dev Quote</b></summary>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</details>
+
+<br/>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=vishvrajsolanki-dev&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:8A2BE2&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!--
+SETUP NOTE — Snake contribution animation:
+1. In vishvrajsolanki-dev/vishvrajsolanki-dev, add .github/workflows/snake.yml using Platane/snk@v3
+2. It generates an `output` branch with the SVG this README already points to
+3. First run takes a few minutes; after that it refreshes daily via cron
+Ask Claude if you want this workflow file generated.
+-->
